@@ -1,7 +1,7 @@
 # Lahman Baseabll Database Loader [Functional, In-progress]
 
 This repo contains code to load the [Lahman Baseball Database](https://sabr.org/lahman-database/), to a Postgres database. This
-repo is provided as a supplement to walkthroughs and demos from baseball tutorials on the YouTube channel, [Build Whatever You Want]
+repo is provided as a supplement to walkthroughs and demos from baseball tutorials on the YouTube channel, [Build Whatever You Want](https://www.youtube.com/@BuildWhateverYouWant)
 
 
 This tutorial series is undergoing refinement and improvement, so please excuse any errors.
