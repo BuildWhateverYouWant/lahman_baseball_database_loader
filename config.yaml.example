@@ -1,0 +1,6 @@
+path_to_csvs: /path/to/lahman_1871-2025_csv
+username: <YOUR_USERNAME_HERE>
+password: <YOUR_PASSWORD_HERE>
+host: <YOUR_HOST_HERE>
+port: <YOUR_PORT_HERE>
+database: <YOUR_DATABASE_HERE>
