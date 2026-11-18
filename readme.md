@@ -29,12 +29,12 @@ This loader is designed to ingest CSV data for the Lahman Basebal Database into 
 
 Once here, copy the contents of `config.yaml.example` into a file called `config.yaml`, and update the values for your specific configuration. This file contains several fields:
 
-- path_to_csvs: Specify the fully-qualified path for the file that contains the CSV data (example: `/path/to/lahman_1871-2025_csv`)
-- username: The username for your Postgres user.
-- password: The password for your Postgres user.
-- host: The host for your Postgres database.
-- port: The port for your Posgres database.
-- database: The name of the database in which the baseball database tables will be created and the data will be inserted into.
+- `path_to_csvs`: Specify the fully-qualified path for the file that contains the CSV data (example: `/path/to/lahman_1871-2025_csv`)
+- `username`: The username for your Postgres user.
+- `password`: The password for your Postgres user.
+- `host`: The host for your Postgres database.
+- `port`: The port for your Posgres database.
+- `database`: The name of the database in which the baseball database tables will be created and the data will be inserted into.
 
 ## Run program
 
